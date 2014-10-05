@@ -1,3 +1,24 @@
 ex04
 
-a faire
+17/20
+
+-2 attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+voir mes corrections
+
+exercice_4_fib_impression
+-->
+exercice4FibImpression
+-->
+fibImpression
+
+
+? 20 premiers nombres de la suite de Fibonnaci
+Print the first 10 numbers, starting with 0, of the Fibonacci sequence.
+
+-1 Difference between 1992-12-19 12:00:00.000 and today :
+0021-09-16 00:00:00.000
+Il s'est écoulé depuis mon anniversaire 21 ans, 9 mois et 16 jours
+
+
+.gitignore manquant
+
